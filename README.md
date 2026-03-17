@@ -1,2 +1,3 @@
 # Learn-AI
-Learn AI
+Learn AI technology and tools
+
